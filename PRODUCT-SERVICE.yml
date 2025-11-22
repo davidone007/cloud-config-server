@@ -1,5 +1,5 @@
 app:
   feature:
-    delete-product-enabled: true
+    delete-product-enabled: false
   custom:
-    property: "valor-inicial-desde-github"
+    property: "cambiando-para-probar
