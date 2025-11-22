@@ -1,5 +1,5 @@
 app:
   feature:
-    delete-product-enabled: false
+    delete-product-enabled: true
   custom:
-    property: "cambiando-falso"
+    property: "ACTIVADO"
