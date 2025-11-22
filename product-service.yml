@@ -1,0 +1,5 @@
+app:
+  feature:
+    delete-product-enabled: true
+  custom:
+    property: "valor-inicial-desde-github"
