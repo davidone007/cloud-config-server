@@ -2,4 +2,4 @@ app:
   feature:
     delete-product-enabled: false
   custom:
-    property: "cambiando-para-probar"
+    property: "VALOR-SUPER-NUEVO-2024"
